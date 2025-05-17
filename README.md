@@ -146,6 +146,4 @@ INSERT INTO order_items (order_id, product_id, quantity, price) VALUES
 (2, 2, 1, 699.99);
 ```
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
